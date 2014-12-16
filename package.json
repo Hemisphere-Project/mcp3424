@@ -1,16 +1,42 @@
 {
   "name": "mcp3424",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "Module to read from MCP3424 4Channel Delta Sigma ADC",
   "main": "main.js",
-  "author": "Fabian Behnke",
+  "author": {
+    "name": "Fabian Behnke"
+  },
   "repository": {
     "type": "git",
     "url": "http://github.com/x3itsolutions/mcp3424.git"
   },
   "license": "MIT",
   "dependencies": {
-    "coffee-script": "1.3.3",
     "i2c": "0.1.4"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/x3itsolutions/mcp3424/issues"
+  },
+  "_id": "mcp3424@0.0.1",
+  "dist": {
+    "shasum": "a1c1e1c4ea1b4f94d18bd1fc2d34a2749a2c1ac5",
+    "tarball": "http://registry.npmjs.org/mcp3424/-/mcp3424-0.0.1.tgz"
+  },
+  "_from": "mcp3424@",
+  "_npmVersion": "1.3.8",
+  "_npmUser": {
+    "name": "x3itsolutions",
+    "email": "info@x3-net.eu"
+  },
+  "maintainers": [
+    {
+      "name": "x3itsolutions",
+      "email": "info@x3-net.eu"
+    }
+  ],
+  "directories": {},
+  "_shasum": "a1c1e1c4ea1b4f94d18bd1fc2d34a2749a2c1ac5",
+  "_resolved": "https://registry.npmjs.org/mcp3424/-/mcp3424-0.0.1.tgz",
+  "readme": "ERROR: No README data found!",
+  "homepage": "https://github.com/x3itsolutions/mcp3424"
 }
